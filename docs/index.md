@@ -20,5 +20,7 @@ features:
     details: 我们提供速查表, 全局搜索, 快速查找内容
   - title: 更新频繁
     details: 胶囊内容会及时更新, 同时也欢迎提出反馈意见
+  - title: 开放开源
+    details: 胶囊内容以及站点配置以 CC BY-SA 4.0 与 AGPL 3.0 开源
 ---
 

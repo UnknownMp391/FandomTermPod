@@ -67,8 +67,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'gitea', link: 'http://git.unknownmp.top/FandomTermPod' },
-      { icon: 'github', link: 'https://github.com/UnknownMp391' },
+      { icon: 'github', link: 'https://github.com/UnknownMp391/FandomTermPod' },
     ],
     search: {
       provider: 'local'
