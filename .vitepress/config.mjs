@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "同人术语胶囊",
   description: "帮你拆解同人圈黑话的胶囊词典",
+  srcDir: './docs',
   lastUpdated: true,
   sitemap: {
     hostname: 'https://ftpod.unknownmp.top'
