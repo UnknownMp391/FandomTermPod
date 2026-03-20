@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://ftpod.unknownmp.top/sitemap.xml
