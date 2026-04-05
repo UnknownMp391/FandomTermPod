@@ -1,3 +1,7 @@
+---
+title: 速查表
+description: 术语速查表兼索引
+---
 # 速查表
 
 ::: tip
