@@ -1,3 +1,7 @@
+---
+title: ABO 世界观
+description: 关于 ABO 世界观以及对应 Alpha, Beta, Omega的解释
+---
 # ABO
 
 **ABO** 是一种非常常见的衍生设定, 用于构建角色之间的性别架构和社会结构

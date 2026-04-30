@@ -1,3 +1,7 @@
+---
+title: RPS 真人同人
+description: 关于 RPS / 真人同人 的解释与警示
+---
 # RPS
 
 **Real Person Slash**  
