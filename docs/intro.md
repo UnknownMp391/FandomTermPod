@@ -2,6 +2,10 @@
 
 > “同人宇宙的密码本，打开即用。” —— DeepSeek
 
+::: tip
+现在 FandomTermPod 已经是 [FanWork Platform](https://fwp.unknownmp.top) 项目集的一个子项目!
+:::
+
 ## :pushpin: 这是什么?
 一部 **客观、模块化** 的同人文化术语百科，致力于
 - 🔍 **拆解黑话**：Tag, ABO 是什么, OOC, OC 有什么区别

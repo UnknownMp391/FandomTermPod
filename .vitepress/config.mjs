@@ -5,6 +5,7 @@ export default defineConfig({
   description: "帮你拆解同人圈黑话的胶囊词典",
   srcDir: './docs',
   lastUpdated: true,
+  base: '/',
   sitemap: {
     hostname: 'https://ftpod.unknownmp.top'
   },
